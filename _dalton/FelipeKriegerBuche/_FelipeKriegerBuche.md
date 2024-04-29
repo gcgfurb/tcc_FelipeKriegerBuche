@@ -29,8 +29,10 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
-Percentual estimado:  
-Comentários:  
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
+Percentual estimado: 15%  
+Comentários: fez alguns esboços mas precisa acelerar bastante pois está um pouco atrasado.  
 [ ] interagindo com o orientador:  
 [ ] cabeçalho:  
 [ ] título:  
