@@ -35,3 +35,38 @@ Secundários
 •⁠  ⁠o aplicativo deve ser construído seguindo princípios de acessibilidade conforme as diretrizes WCAG (RNF);
 •⁠  ⁠o aplicativo deve ser construído seguindo os padrões do Material Design do Google para assegurar a usabilidade (RNF)
 
+## 2024-08-21 - 16:49
+
+Meio outubro iniciar descrição artigo.  
+
+
+interativa
+
+educativa para os visitantes e inclusão da acessibilidade conforme os padrões WCAG, garantindo a inclusão de pessoas com deficiências visuais e auditivas.
+Os objetivos específicos são:
+a) disponibilizar funcionalidades voltadas para a acessibilidade;  
+b) analisar e aplicar padrões de acessibilidade WCAG;  
+c) enriquecer a experiência dos visitantes com combinação de funcionalidades de reconhecimento de objetos com realidade aumentada.  
+
+a) o aplicativo deve permitir ao usuário acessar as funções do trabalho proposto via aplicativo móvel (RF);  
+b) o aplicativo dever permitir ao usuário realizar reconhecimento de objetos 3D no aplicativo para reconhecer os animais da exposição (RF);  
+
+[2024-08-21_reuniao.pdf](2024-08-21_reuniao.pdf)  
+
+Base Animais
+  - maior: animal cadastrado no aplicativo
+  - menor: objetos Realidade Aumentada
+
+\[Felipe]
+  diretrizes WCAG (acessibilidade)
+  realidade aumentada para exibir informações adicionais sobre o animal
+    - escolher an animal
+      - descritiva: \[Dalton] pegar dados reais, quem?
+          escolhe um animal para usar como marcador: chama atenção
+    - digitalizar
+    - usar no App
+
+
+\[Felipe] .. OK
+  Programação Kotlin (Android)
+  Material Design do Google
