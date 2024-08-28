@@ -54,19 +54,21 @@ b) o aplicativo dever permitir ao usuário realizar reconhecimento de objetos 3D
 [2024-08-21_reuniao.pdf](2024-08-21_reuniao.pdf)  
 
 Base Animais
-  - maior: animal cadastrado no aplicativo
-  - menor: objetos Realidade Aumentada
+  
+- maior: animal cadastrado no aplicativo
+- menor: objetos Realidade Aumentada
 
 \[Felipe]
   diretrizes WCAG (acessibilidade)
   realidade aumentada para exibir informações adicionais sobre o animal
-    - escolher an animal
+    - escolher um animal
       - descritiva: \[Dalton] pegar dados reais, quem?
           escolhe um animal para usar como marcador: chama atenção
     - digitalizar
     - usar no App
 
-
 \[Felipe] .. OK
   Programação Kotlin (Android)
   Material Design do Google
+
+![Telas](Telas.drawio.svg)  
