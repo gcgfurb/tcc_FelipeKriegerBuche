@@ -72,3 +72,5 @@ Base Animais
   Material Design do Google
 
 ![Telas](Telas.drawio.svg)  
+
+Publicam notícias
