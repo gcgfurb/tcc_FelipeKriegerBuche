@@ -39,7 +39,6 @@ Secundários
 
 Meio outubro iniciar descrição artigo.  
 
-
 interativa
 
 educativa para os visitantes e inclusão da acessibilidade conforme os padrões WCAG, garantindo a inclusão de pessoas com deficiências visuais e auditivas.
@@ -74,3 +73,19 @@ Base Animais
 ![Telas](Telas.drawio.svg)  
 
 Publicam notícias
+
+## 2024-09-11 - 16:47
+
+\[Dalton] digitalizar peças  
+\[Dalton] cobrar mapa Ayumi  
+\[Dalton] Vandeir passar Dalton root  
+
+\[Felipe] Instagram, notícias .. funciona, mas falta arrumar o layout  
+
+Tela Mapa  
+Servidor  
+QRCode modelo 3D  
+
+- QRCode leva para peça  
+- QRCode targetImage para ancorar modelo3D  
+- ideia do supermam  
