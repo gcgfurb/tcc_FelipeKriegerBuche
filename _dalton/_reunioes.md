@@ -89,3 +89,8 @@ QRCode modelo 3D
 - QRCode leva para peça  
 - QRCode targetImage para ancorar modelo3D  
 - ideia do supermam  
+
+## 2024-09-16 - 09:47
+
+[2024-09-16_Fichas](2024-09-16_Fichas)  
+A anta e o bugio estão na sala brasil, a anta no grupo da amazônia e o bugio no grupo da mata atlântica, a Sucuri está na sala Ciência em um canto onde explicamos sobre serpentes.  
