@@ -98,3 +98,7 @@ A anta e o bugio estão na sala brasil, a anta no grupo da amazônia e o bugio n
 ## 2024-09-25 - 17:30
 
 [text](2024-09-25_Telas.pdf)  
+
+## 2024-10-16 - 16:20
+
+![2024-10-16_projeto.svg](2024-10-16_projeto.svg)  
