@@ -117,3 +117,7 @@ Pre teste
   - digitalizar peça do museu
 
 - servidor  
+
+## 2025-03-20 - 21:58
+
+Dalton: ler artigo  
