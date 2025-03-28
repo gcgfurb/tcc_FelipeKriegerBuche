@@ -121,3 +121,9 @@ Pre teste
 ## 2025-03-20 - 21:58
 
 Dalton: ler artigo  
+
+## 2025-03-27 - 21:44
+
+Vai enviar o APK para testar o chimpaze.  
+Depois vai fazer o bugio.  
+Dalton, revisar o artigo parcial.  
