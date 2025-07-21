@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="Porquinho" targetId="07067024540146e3ae5d1ac3c39764fd" version="14.0" toolVersion="v7.0.6" bbox="-0.044519 0.275042 -0.366036 0.343585 0.601347 0.126668" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Porquinho" assemblyId="e6f71dfd55e84081b3da73c58cb3ddec">
+        <Part name="Porquinho" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
