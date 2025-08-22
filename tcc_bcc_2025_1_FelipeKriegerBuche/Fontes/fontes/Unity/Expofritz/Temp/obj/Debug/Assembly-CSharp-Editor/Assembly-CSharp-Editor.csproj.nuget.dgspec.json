@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj": {}
+    "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj": {}
   },
   "projects": {
-    "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj": {
+    "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj",
+        "projectUniqueName": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj",
         "projectName": "Assembly-CSharp-Editor",
-        "projectPath": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj",
+        "projectPath": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp-Editor.csproj",
         "packagesPath": "/Users/daltonreis/.nuget/packages/",
-        "outputPath": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Temp/obj/Debug/Assembly-CSharp-Editor/",
+        "outputPath": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Temp/obj/Debug/Assembly-CSharp-Editor/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daltonreis/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj": {
-                "projectPath": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj"
+              "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj": {
+                "projectPath": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj": {
+    "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj",
+        "projectUniqueName": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj",
+        "projectPath": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Assembly-CSharp.csproj",
         "packagesPath": "/Users/daltonreis/.nuget/packages/",
-        "outputPath": "/Users/daltonreis/GitHub/TCC/abertos/_TCC2/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Temp/obj/Debug/Assembly-CSharp/",
+        "outputPath": "/Users/daltonreis/GitHub/TCC/fechados/_OLD_/tcc_FelipeKriegerBuche/tcc_FelipeKriegerBuche_Dalton/tcc_bcc_2025_1_FelipeKriegerBuche/Fontes/fontes/Unity/Expofritz/Temp/obj/Debug/Assembly-CSharp/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daltonreis/.nuget/NuGet/NuGet.Config"
